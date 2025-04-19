@@ -61,7 +61,7 @@ head:
 
 ![{86F2EF98-D419-40C9-ACDD-CFC069FE993C}](https://github.com/user-attachments/assets/b6fe1ee6-8cf3-48a0-8180-597f08468350)
 
-mean and predicted value:
+mean squared error and predicted value:
 
 ![{76C25B90-3C0D-46C1-845E-2E7CB0D715E2}](https://github.com/user-attachments/assets/5723c830-58e2-4df3-b388-4add0daceb75)
 
